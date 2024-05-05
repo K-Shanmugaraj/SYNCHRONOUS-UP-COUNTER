@@ -43,9 +43,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 /*
 
-Developed by: CHARUMATHI R
+Developed by: SHANMUGA RAJ.K
 
-RegisterNumber: 212222240021
+RegisterNumber: 212223040192
 */
 
 ```C
